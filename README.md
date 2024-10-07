@@ -17,7 +17,7 @@
   
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="50" height="50"/>&nbsp;](https://www.postgresql.org/)
 [<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" title="mysql" width="50" height="50"/>&nbsp;](https://www.mysql.com/)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK344qk8vH4LiMT6DId7ZsW96H-DQhkWiKsQ&s" title="mariadb" width="150" height="50"/>&nbsp;
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK344qk8vH4LiMT6DId7ZsW96H-DQhkWiKsQ&s" title="mariadb" width="150" height="50"/>&nbsp;](https://mariadb.org/)
 </div>
 Языки и фраймворки для backend
 <div>
