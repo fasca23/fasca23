@@ -22,7 +22,7 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="50" height="50"/>&nbsp;
 
-<img src="https://fantaso.github.io/images/skills-flask.png"title="flask" width="50" height="50"/>&nbsp;
+<img src="https://fantaso.github.io/images/skills-flask.png" title="flask" width="50" height="50"/>&nbsp;
 
 <img src="https://www.hashstudioz.com/images/hire-django-hero.webp" title="django" width="50" height="50"/>&nbsp;
 
