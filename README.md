@@ -54,10 +54,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="dbeaver" width="40" height="40"/>&nbsp;
 </br>
 </div>
-</br>
 
 ***
-
 👩🏻‍💻 Примеры выполненных задач:
 </br>
 <div>
