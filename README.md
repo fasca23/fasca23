@@ -80,3 +80,24 @@
 
 ✅ Учёт времени кодинга - https://github.com/fasca23/re_4_2
 </div>
+
+***
+
+<table>
+    <tr>
+        <td>Курсы</td>
+        <td>Даты</td>
+    </tr>
+    <tr>
+        <td>[Fullstack-разработчик на Python](https://netology.ru/programs/fullstack-python-dev)</td>
+        <td>23.06.2022--26.02.2024</td>
+    </tr>
+    <tr>
+        <td>[SQL и получение данных](https://netology.ru/programs/sql-lessons#/)</td>
+        <td>19.07.2022--02.09.2022</td>
+    </tr>
+    <tr>
+        <td>[DevOps-инженер](https://netology.ru/programs/devops) (обучение продолжается)</td>
+        <td>16.09.2024--05.05.2025</td>
+    </tr>
+</table>
