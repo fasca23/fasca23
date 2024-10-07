@@ -14,11 +14,9 @@
 
 СУБД:
 <div>
-</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="mariadb" width="50" height="50"/>&nbsp;
-</br>
 </div>
 Языки и фраймворки для backend
 <div>
@@ -28,6 +26,7 @@
 <img src="https://www.hashstudioz.com/images/hire-django-hero.webp" title="django" width="50" height="50"/>&nbsp;
 </br>
 </div>
+</br>
 Языки и технологии для frontend:
 <div>
 </br>
