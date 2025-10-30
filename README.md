@@ -98,7 +98,7 @@
         <td>19.07.2022--02.09.2022</td>
     </tr>
     <tr>
-        <td>[DevOps-инженер](https://netology.ru/programs/devops) (обучение продолжается)</td>
+        <td>✅[DevOps-инженер](https://netology.ru/programs/devops)</td>
         <td>16.09.2024--05.05.2025</td>
     </tr>
 </table>
