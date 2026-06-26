@@ -23,7 +23,7 @@
 Языки и фраймворки для backend
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="50" height="50"/>&nbsp;
-<img src="https://cdn.simpleicons.org/flask/black/white" title="flask" width="50" height="50"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="flask" height="40"/>
 <img src="https://www.hashstudioz.com/images/hire-django-hero.webp" title="django" width="50" height="50"/>&nbsp;
 </br>
 </div>
