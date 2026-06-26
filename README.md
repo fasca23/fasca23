@@ -121,6 +121,6 @@
     </tr>
     <tr>
         <td>[Решения задач Leetcode](https://github.com/fasca23/LeetCode)</td>
-        <td>28/3973</td>
+        <td>28/3973 (0.7%)</td>
     </tr>
 </table>
