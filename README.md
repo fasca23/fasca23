@@ -103,6 +103,7 @@
     </tr>
 </table>
 
+***
 :computer: Stepik / Leetcode
 
 <table>
@@ -119,7 +120,7 @@
         <td>121/626 (24%)</td>
     </tr>
     <tr>
-        <td>Решения задач Leetcode</td>
+        <td>[Решения задач Leetcode](https://github.com/fasca23/LeetCode)</td>
         <td>28/3973</td>
     </tr>
 </table>
