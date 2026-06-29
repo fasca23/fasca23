@@ -113,7 +113,7 @@
     </tr>
     <tr>
         <td>[Добрый, добрый C/C++ с Сергеем Балакиревым (часть 1)](https://stepik.org/course/193691/info)</td>
-        <td>455/1241 (37%)</td>
+        <td>467/1241 (38%)</td>
     </tr>
     <tr>
         <td>[Профессия — Белый Хакер](https://stepik.org/course/169003/info)</td>
