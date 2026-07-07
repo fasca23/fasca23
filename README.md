@@ -120,7 +120,7 @@
     </tr>
     <tr>
         <td>[Добрый, добрый C/C++ с Сергеем Балакиревым (часть 1)](https://stepik.org/course/193691/info)</td>
-        <td>490/1241 (40%)</td>
+        <td>491/1241 (40%)</td>
     </tr>
     <tr>
         <td>[Профессия — Белый Хакер](https://stepik.org/course/169003/info)</td>
@@ -128,6 +128,6 @@
     </tr>
     <tr>
         <td>[Решения задач Leetcode](https://github.com/fasca23/LeetCode)</td>
-        <td>37/3985 (0.93%)</td>
+        <td>38/3985 (0.95%)</td>
     </tr>
 </table>
