@@ -128,6 +128,6 @@
     </tr>
     <tr>
         <td>[Решения задач Leetcode](https://github.com/fasca23/LeetCode)</td>
-        <td>62/4013 (1.54%)</td>
+        <td>82/4033 (2.03%)</td>
     </tr>
 </table>
